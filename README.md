@@ -1,4 +1,7 @@
 # ionic-white-label
+
+This package will update the Ionic config.xml and resource images (icon/splash) in one command.
+
 `npm install -g ionic-white-label`
 
 `ionic-white-label --id=my.app.id.com --name=AppName --icon=resources/client1/icon.png --splash=resources/client1/splash.png`
