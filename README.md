@@ -5,8 +5,8 @@
 
 ARGS:
 * config: config.xml file path (DEFAULT: ./confix.xml)
-* id: 'id' attribute in config.xml <widget> tag
-* name: config.xml <name> tag
+* id: 'id' attribute in config.xml 'widget' tag
+* name: config.xml 'name' tag
 * icon: file path to app icon image
 * splash: file path to app splash image
 
