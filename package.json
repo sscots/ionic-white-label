@@ -1,0 +1,32 @@
+{
+  "name": "ionic-white-label",
+  "version": "1.0.0",
+  "description": "Generate While Label apps in Ionic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sscots/ionic-white-label.git"
+  },
+  "keywords": [
+    "ionic",
+    "white",
+    "label"
+  ],
+  "bin": {
+    "ionic-white-label": "bin/ionic-white-label"
+  },
+  "preferGlobal": true,
+  "author": "Scot Schroeder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sscots/ionic-white-label/issues"
+  },
+  "homepage": "https://github.com/sscots/ionic-white-label#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "xml2js": "^0.4.19"
+  }
+}
